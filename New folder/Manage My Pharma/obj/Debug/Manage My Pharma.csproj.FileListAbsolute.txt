@@ -1,0 +1,42 @@
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\bin\Debug\Manage My Pharma.exe.config
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\bin\Debug\Manage My Pharma.exe
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\bin\Debug\Manage My Pharma.pdb
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage My Pharma.csproj.AssemblyReference.cache
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage_My_Pharma.Properties.Resources.resources
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage My Pharma.csproj.GenerateResource.cache
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage My Pharma.csproj.CoreCompileInputs.cache
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage My Pharma.exe
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage My Pharma.pdb
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage_My_Pharma.connecter.resources
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage_My_Pharma.accueil.resources
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage_My_Pharma.produit.resources
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage_My_Pharma.user.resources
+C:\Users\medo\source\repos\Manage My Pharma\Manage My Pharma\obj\Debug\Manage_My_Pharma.vente.resources
+C:\Users\medo\Desktop\New folder\Manage My Pharma\bin\Debug\Manage My Pharma.exe.config
+C:\Users\medo\Desktop\New folder\Manage My Pharma\bin\Debug\Manage My Pharma.exe
+C:\Users\medo\Desktop\New folder\Manage My Pharma\bin\Debug\Manage My Pharma.pdb
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.csproj.AssemblyReference.cache
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.connecter.resources
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.accueil.resources
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.produit.resources
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.user.resources
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.vente.resources
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.Properties.Resources.resources
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.csproj.GenerateResource.cache
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.csproj.CoreCompileInputs.cache
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.exe
+C:\Users\medo\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.pdb
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\bin\Debug\Manage My Pharma.exe.config
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\bin\Debug\Manage My Pharma.exe
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\bin\Debug\Manage My Pharma.pdb
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.connecter.resources
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.accueil.resources
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.produit.resources
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.user.resources
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.vente.resources
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage_My_Pharma.Properties.Resources.resources
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.exe
+C:\Users\Walid\Desktop\New folder\Manage My Pharma\obj\Debug\Manage My Pharma.pdb
